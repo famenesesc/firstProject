@@ -2,5 +2,7 @@
   text-align: center;
 }
 #image {
-  max-width: ;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
